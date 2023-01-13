@@ -2,6 +2,7 @@ Instructions with demonstration: https://docs.google.com/document/d/1DNdS_eeMw9L
 
 This snake game is coded in C. 
 https://www.onlinegdb.com/online_c_compiler 
+
 Will let you run it if you are unfamiliar with C.
 
 The goal of the game is to collect the trophies until the tail is half the length of the perimeter. Each trophy gives the number of points it shows and grows the tail the same amount.
