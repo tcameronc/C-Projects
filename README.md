@@ -1,4 +1,4 @@
-Instructions with demonstration: shorturl.at/cdE29
+Instructions with demonstration: https://docs.google.com/document/d/1DNdS_eeMw9LDf8eRrLnE_vZ8V_1jEOxd8iFTGkTXoYM/edit
 
 This snake game is coded in C. 
 https://www.onlinegdb.com/online_c_compiler 
